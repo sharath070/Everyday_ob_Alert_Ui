@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:2:1-26:12
+ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:2:1-33:12
 MERGED from [androidx.databinding:viewbinding:8.1.0] /home/sharath/.gradle/caches/transforms-3/35de42a4ce4ee681221adf1478ee79e8/transformed/viewbinding-8.1.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-common:2.7.4] /home/sharath/.gradle/caches/transforms-3/7cb096e838bb156083cc7731313436dc/transformed/navigation-common-2.7.4/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.7.4] /home/sharath/.gradle/caches/transforms-3/7dab6d1b85cdbba69fe94fa1bc37a37e/transformed/navigation-common-ktx-2.7.4/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-runtime:2.7.4] /home/sharath/.gradle/caches/transforms-3/d7e0cd8c07c4b5d361e0efbe695c620a/transformed/navigation-runtime-2.7.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.7.4] /home/sharath/.gradle/caches/transforms-3/7cb096e838bb156083cc7731313436dc/transformed/navigation-common-2.7.4/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.4] /home/sharath/.gradle/caches/transforms-3/340b3a94b21e240cd9e1e259f4b5b24f/transformed/navigation-runtime-ktx-2.7.4/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-fragment:2.7.4] /home/sharath/.gradle/caches/transforms-3/ab9ac259712d37898b87114ad034bb49/transformed/navigation-fragment-2.7.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.4] /home/sharath/.gradle/caches/transforms-3/d7e0cd8c07c4b5d361e0efbe695c620a/transformed/navigation-runtime-2.7.4/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.4] /home/sharath/.gradle/caches/transforms-3/9eef4424c58dd2b819bf05d98a6c359e/transformed/navigation-fragment-ktx-2.7.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.7.4] /home/sharath/.gradle/caches/transforms-3/ab9ac259712d37898b87114ad034bb49/transformed/navigation-fragment-2.7.4/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-ui-ktx:2.7.4] /home/sharath/.gradle/caches/transforms-3/5d79c27acbb3e8de7dc72dedcf09258c/transformed/navigation-ui-ktx-2.7.4/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-ui:2.7.4] /home/sharath/.gradle/caches/transforms-3/0ba93ac7b8b2af3b8e8ee8a694689bf0/transformed/navigation-ui-2.7.4/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.10.0] /home/sharath/.gradle/caches/transforms-3/736a812f66dc8c7e88ee6a0fc361bca3/transformed/material-1.10.0/AndroidManifest.xml:17:1-24:12
@@ -40,8 +40,8 @@ MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/sharath/.gradle/cac
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/sharath/.gradle/caches/transforms-3/3aad1489596c9e81d5fb733b60ac0224/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/sharath/.gradle/caches/transforms-3/b5a3cb9c090a4649559aa3bfb95ad26d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/sharath/.gradle/caches/transforms-3/b09bbcdcacd8281c1817f2176f03c356/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/sharath/.gradle/caches/transforms-3/88ebce4f023b7d624db2c18bd0eb1939/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/sharath/.gradle/caches/transforms-3/ee421fdbf04b3c0611556d6956d73ae0/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/sharath/.gradle/caches/transforms-3/88ebce4f023b7d624db2c18bd0eb1939/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /home/sharath/.gradle/caches/transforms-3/cfbd0f8bdbb0bd94f9b096a7ca76b323/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.1.0] /home/sharath/.gradle/caches/transforms-3/31be5353d913fee81070de9133a8c1bb/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.transition:transition:1.4.1] /home/sharath/.gradle/caches/transforms-3/f1e8560c3d1220dac5ff474355178e6d/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
@@ -51,12 +51,8 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/sharath/.gradle/c
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/sharath/.gradle/caches/transforms-3/70d7556e61eda8fdd15320d6faaa2a58/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] /home/sharath/.gradle/caches/transforms-3/ddde9aa2ca68108e01f8c912aa0194f8/transformed/lifecycle-livedata-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/sharath/.gradle/caches/transforms-3/8f26632ada4e770b3666b418ef0463e5/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.room:room-ktx:2.5.2] /home/sharath/.gradle/caches/transforms-3/52c704102a271998cce11028d250ee51/transformed/room-ktx-2.5.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.room:room-runtime:2.5.2] /home/sharath/.gradle/caches/transforms-3/0d0d0c329c20ccd413884451fdfa492a/transformed/room-runtime-2.5.2/AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/sharath/.gradle/caches/transforms-3/9fefa25a7590305d180b4c117c88edcb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] /home/sharath/.gradle/caches/transforms-3/d8e2166947df35c5bf22a19fa3d365ca/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.sqlite:sqlite-framework:2.3.1] /home/sharath/.gradle/caches/transforms-3/53c6484ad3666e81fb535ac7825698a5/transformed/sqlite-framework-2.3.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.sqlite:sqlite:2.3.1] /home/sharath/.gradle/caches/transforms-3/2a6fed4b60e8c2f3c6c5ba2753dc237e/transformed/sqlite-2.3.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/sharath/.gradle/caches/transforms-3/ad513cf499e1e641aad65db2c91c54d4/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/sharath/.gradle/caches/transforms-3/6ed31cb59ce1fcfa4e58b8ad2df97329/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/sharath/.gradle/caches/transforms-3/cf49a32614bc6f5096f6088432fc755d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
@@ -77,9 +73,21 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/sharath/.g
 		INJECTED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:7:22-76
 application
-ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:5:5-24:19
-INJECTED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:5:5-24:19
+ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:9:5-31:19
+INJECTED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:9:5-31:19
 MERGED from [com.google.android.material:material:1.10.0] /home/sharath/.gradle/caches/transforms-3/736a812f66dc8c7e88ee6a0fc361bca3/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.10.0] /home/sharath/.gradle/caches/transforms-3/736a812f66dc8c7e88ee6a0fc361bca3/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/sharath/.gradle/caches/transforms-3/9447bfa5d0f793b82663fd07c4c91acb/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -92,8 +100,6 @@ MERGED from [androidx.window:window:1.0.0] /home/sharath/.gradle/caches/transfor
 MERGED from [androidx.window:window:1.0.0] /home/sharath/.gradle/caches/transforms-3/caa090efc8f337150a19197085b7dc73/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.core:core:1.12.0] /home/sharath/.gradle/caches/transforms-3/f84dfbbf046cb77908412c87ea1fdc36/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
 MERGED from [androidx.core:core:1.12.0] /home/sharath/.gradle/caches/transforms-3/f84dfbbf046cb77908412c87ea1fdc36/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.room:room-runtime:2.5.2] /home/sharath/.gradle/caches/transforms-3/0d0d0c329c20ccd413884451fdfa492a/transformed/room-runtime-2.5.2/AndroidManifest.xml:23:5-29:19
-MERGED from [androidx.room:room-runtime:2.5.2] /home/sharath/.gradle/caches/transforms-3/0d0d0c329c20ccd413884451fdfa492a/transformed/room-runtime-2.5.2/AndroidManifest.xml:23:5-29:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/sharath/.gradle/caches/transforms-3/6ed31cb59ce1fcfa4e58b8ad2df97329/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/sharath/.gradle/caches/transforms-3/6ed31cb59ce1fcfa4e58b8ad2df97329/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/sharath/.gradle/caches/transforms-3/cf49a32614bc6f5096f6088432fc755d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
@@ -105,57 +111,63 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /home/sharath/.gradle/cache
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.12.0] /home/sharath/.gradle/caches/transforms-3/f84dfbbf046cb77908412c87ea1fdc36/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:14:9-41
 	android:fullBackupContent
-		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:8:9-54
+		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:12:9-54
 	android:roundIcon
-		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:15:9-54
 	tools:targetApi
-		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:14:9-29
+		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:18:9-29
 	android:icon
-		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:13:9-56
+		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:17:9-56
 	android:dataExtractionRules
-		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:7:9-65
-activity#com.sharath070.everydayjobalertui.MainActivity
-ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:15:9-23:20
+		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:11:9-65
+activity#com.sharath070.everydayjobalertui.ui.activities.MainActivity
+ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:19:9-27:20
 	android:exported
-		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:17:13-36
+		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:21:13-36
 	android:name
-		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:16:13-41
+		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:20:13-55
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:18:13-22:29
+ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:19:17-69
+ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:25:27-74
+meta-data#preloaded_fonts
+ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:28:9-30:57
+	android:resource
+		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:30:13-54
+	android:name
+		ADDED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml:29:13-43
 uses-sdk
 INJECTED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml
 INJECTED from /home/sharath/AndroidStudioProjects/EverydayJobAlertUi/app/src/main/AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:8.1.0] /home/sharath/.gradle/caches/transforms-3/35de42a4ce4ee681221adf1478ee79e8/transformed/viewbinding-8.1.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:viewbinding:8.1.0] /home/sharath/.gradle/caches/transforms-3/35de42a4ce4ee681221adf1478ee79e8/transformed/viewbinding-8.1.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-common:2.7.4] /home/sharath/.gradle/caches/transforms-3/7cb096e838bb156083cc7731313436dc/transformed/navigation-common-2.7.4/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common:2.7.4] /home/sharath/.gradle/caches/transforms-3/7cb096e838bb156083cc7731313436dc/transformed/navigation-common-2.7.4/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-common-ktx:2.7.4] /home/sharath/.gradle/caches/transforms-3/7dab6d1b85cdbba69fe94fa1bc37a37e/transformed/navigation-common-ktx-2.7.4/AndroidManifest.xml:5:5-44
 MERGED from [androidx.navigation:navigation-common-ktx:2.7.4] /home/sharath/.gradle/caches/transforms-3/7dab6d1b85cdbba69fe94fa1bc37a37e/transformed/navigation-common-ktx-2.7.4/AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-runtime:2.7.4] /home/sharath/.gradle/caches/transforms-3/d7e0cd8c07c4b5d361e0efbe695c620a/transformed/navigation-runtime-2.7.4/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime:2.7.4] /home/sharath/.gradle/caches/transforms-3/d7e0cd8c07c4b5d361e0efbe695c620a/transformed/navigation-runtime-2.7.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.4] /home/sharath/.gradle/caches/transforms-3/7cb096e838bb156083cc7731313436dc/transformed/navigation-common-2.7.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.4] /home/sharath/.gradle/caches/transforms-3/7cb096e838bb156083cc7731313436dc/transformed/navigation-common-2.7.4/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.4] /home/sharath/.gradle/caches/transforms-3/340b3a94b21e240cd9e1e259f4b5b24f/transformed/navigation-runtime-ktx-2.7.4/AndroidManifest.xml:5:5-44
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.4] /home/sharath/.gradle/caches/transforms-3/340b3a94b21e240cd9e1e259f4b5b24f/transformed/navigation-runtime-ktx-2.7.4/AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-fragment:2.7.4] /home/sharath/.gradle/caches/transforms-3/ab9ac259712d37898b87114ad034bb49/transformed/navigation-fragment-2.7.4/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-fragment:2.7.4] /home/sharath/.gradle/caches/transforms-3/ab9ac259712d37898b87114ad034bb49/transformed/navigation-fragment-2.7.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.4] /home/sharath/.gradle/caches/transforms-3/d7e0cd8c07c4b5d361e0efbe695c620a/transformed/navigation-runtime-2.7.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.4] /home/sharath/.gradle/caches/transforms-3/d7e0cd8c07c4b5d361e0efbe695c620a/transformed/navigation-runtime-2.7.4/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.4] /home/sharath/.gradle/caches/transforms-3/9eef4424c58dd2b819bf05d98a6c359e/transformed/navigation-fragment-ktx-2.7.4/AndroidManifest.xml:5:5-44
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.4] /home/sharath/.gradle/caches/transforms-3/9eef4424c58dd2b819bf05d98a6c359e/transformed/navigation-fragment-ktx-2.7.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.4] /home/sharath/.gradle/caches/transforms-3/ab9ac259712d37898b87114ad034bb49/transformed/navigation-fragment-2.7.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.4] /home/sharath/.gradle/caches/transforms-3/ab9ac259712d37898b87114ad034bb49/transformed/navigation-fragment-2.7.4/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-ui-ktx:2.7.4] /home/sharath/.gradle/caches/transforms-3/5d79c27acbb3e8de7dc72dedcf09258c/transformed/navigation-ui-ktx-2.7.4/AndroidManifest.xml:5:5-44
 MERGED from [androidx.navigation:navigation-ui-ktx:2.7.4] /home/sharath/.gradle/caches/transforms-3/5d79c27acbb3e8de7dc72dedcf09258c/transformed/navigation-ui-ktx-2.7.4/AndroidManifest.xml:5:5-44
 MERGED from [androidx.navigation:navigation-ui:2.7.4] /home/sharath/.gradle/caches/transforms-3/0ba93ac7b8b2af3b8e8ee8a694689bf0/transformed/navigation-ui-2.7.4/AndroidManifest.xml:20:5-44
@@ -214,10 +226,10 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/sharat
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/sharath/.gradle/caches/transforms-3/b5a3cb9c090a4649559aa3bfb95ad26d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/sharath/.gradle/caches/transforms-3/b09bbcdcacd8281c1817f2176f03c356/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/sharath/.gradle/caches/transforms-3/b09bbcdcacd8281c1817f2176f03c356/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/sharath/.gradle/caches/transforms-3/88ebce4f023b7d624db2c18bd0eb1939/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/sharath/.gradle/caches/transforms-3/88ebce4f023b7d624db2c18bd0eb1939/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/sharath/.gradle/caches/transforms-3/ee421fdbf04b3c0611556d6956d73ae0/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/sharath/.gradle/caches/transforms-3/ee421fdbf04b3c0611556d6956d73ae0/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/sharath/.gradle/caches/transforms-3/88ebce4f023b7d624db2c18bd0eb1939/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/sharath/.gradle/caches/transforms-3/88ebce4f023b7d624db2c18bd0eb1939/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager:viewpager:1.0.0] /home/sharath/.gradle/caches/transforms-3/cfbd0f8bdbb0bd94f9b096a7ca76b323/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /home/sharath/.gradle/caches/transforms-3/cfbd0f8bdbb0bd94f9b096a7ca76b323/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.1.0] /home/sharath/.gradle/caches/transforms-3/31be5353d913fee81070de9133a8c1bb/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -236,18 +248,10 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] /home/sharath/.gra
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] /home/sharath/.gradle/caches/transforms-3/ddde9aa2ca68108e01f8c912aa0194f8/transformed/lifecycle-livedata-ktx-2.6.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/sharath/.gradle/caches/transforms-3/8f26632ada4e770b3666b418ef0463e5/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/sharath/.gradle/caches/transforms-3/8f26632ada4e770b3666b418ef0463e5/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.room:room-ktx:2.5.2] /home/sharath/.gradle/caches/transforms-3/52c704102a271998cce11028d250ee51/transformed/room-ktx-2.5.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.room:room-ktx:2.5.2] /home/sharath/.gradle/caches/transforms-3/52c704102a271998cce11028d250ee51/transformed/room-ktx-2.5.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.room:room-runtime:2.5.2] /home/sharath/.gradle/caches/transforms-3/0d0d0c329c20ccd413884451fdfa492a/transformed/room-runtime-2.5.2/AndroidManifest.xml:21:5-44
-MERGED from [androidx.room:room-runtime:2.5.2] /home/sharath/.gradle/caches/transforms-3/0d0d0c329c20ccd413884451fdfa492a/transformed/room-runtime-2.5.2/AndroidManifest.xml:21:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/sharath/.gradle/caches/transforms-3/9fefa25a7590305d180b4c117c88edcb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/sharath/.gradle/caches/transforms-3/9fefa25a7590305d180b4c117c88edcb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /home/sharath/.gradle/caches/transforms-3/d8e2166947df35c5bf22a19fa3d365ca/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /home/sharath/.gradle/caches/transforms-3/d8e2166947df35c5bf22a19fa3d365ca/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite-framework:2.3.1] /home/sharath/.gradle/caches/transforms-3/53c6484ad3666e81fb535ac7825698a5/transformed/sqlite-framework-2.3.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite-framework:2.3.1] /home/sharath/.gradle/caches/transforms-3/53c6484ad3666e81fb535ac7825698a5/transformed/sqlite-framework-2.3.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite:2.3.1] /home/sharath/.gradle/caches/transforms-3/2a6fed4b60e8c2f3c6c5ba2753dc237e/transformed/sqlite-2.3.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite:2.3.1] /home/sharath/.gradle/caches/transforms-3/2a6fed4b60e8c2f3c6c5ba2753dc237e/transformed/sqlite-2.3.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/sharath/.gradle/caches/transforms-3/ad513cf499e1e641aad65db2c91c54d4/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/sharath/.gradle/caches/transforms-3/ad513cf499e1e641aad65db2c91c54d4/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/sharath/.gradle/caches/transforms-3/6ed31cb59ce1fcfa4e58b8ad2df97329/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
@@ -332,16 +336,6 @@ uses-permission#com.sharath070.everydayjobalertui.DYNAMIC_RECEIVER_NOT_EXPORTED_
 ADDED from [androidx.core:core:1.12.0] /home/sharath/.gradle/caches/transforms-3/f84dfbbf046cb77908412c87ea1fdc36/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.12.0] /home/sharath/.gradle/caches/transforms-3/f84dfbbf046cb77908412c87ea1fdc36/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
-service#androidx.room.MultiInstanceInvalidationService
-ADDED from [androidx.room:room-runtime:2.5.2] /home/sharath/.gradle/caches/transforms-3/0d0d0c329c20ccd413884451fdfa492a/transformed/room-runtime-2.5.2/AndroidManifest.xml:24:9-28:63
-	android:exported
-		ADDED from [androidx.room:room-runtime:2.5.2] /home/sharath/.gradle/caches/transforms-3/0d0d0c329c20ccd413884451fdfa492a/transformed/room-runtime-2.5.2/AndroidManifest.xml:27:13-37
-	tools:ignore
-		ADDED from [androidx.room:room-runtime:2.5.2] /home/sharath/.gradle/caches/transforms-3/0d0d0c329c20ccd413884451fdfa492a/transformed/room-runtime-2.5.2/AndroidManifest.xml:28:13-60
-	android:directBootAware
-		ADDED from [androidx.room:room-runtime:2.5.2] /home/sharath/.gradle/caches/transforms-3/0d0d0c329c20ccd413884451fdfa492a/transformed/room-runtime-2.5.2/AndroidManifest.xml:26:13-43
-	android:name
-		ADDED from [androidx.room:room-runtime:2.5.2] /home/sharath/.gradle/caches/transforms-3/0d0d0c329c20ccd413884451fdfa492a/transformed/room-runtime-2.5.2/AndroidManifest.xml:25:13-74
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
 ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/sharath/.gradle/caches/transforms-3/cf49a32614bc6f5096f6088432fc755d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
 	android:value

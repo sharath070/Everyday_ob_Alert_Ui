@@ -27,5 +27,6 @@ data class JobFeedItem(
     val tags: List<Int>,
     val template: String,
     val title: Title,
-    val type: String
+    val type: String,
+    var isSaved: Boolean = false
 )

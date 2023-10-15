@@ -1,82 +1,126 @@
 [
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/drawable/ic_launcher_foreground.xml"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/drawable_bookmark_filled.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/drawable/bookmark_filled.xml"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/layout_activity_main.xml.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/layout/activity_main.xml"
+        "merged": "com.sharath070.everydayjobalertui.app-merged_res-48:/layout_fragment_job_search.xml.flat",
+        "source": "com.sharath070.everydayjobalertui.app-main-50:/layout/fragment_job_search.xml"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/menu_toolbar_menu.xml.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/menu/toolbar_menu.xml"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/layout_item_job_card.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/layout/item_job_card.xml"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/drawable_search_bar_bg.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/drawable/search_bar_bg.xml"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/drawable_menu_bar.xml.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/drawable/menu_bar.xml"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/drawable_logo.jpeg.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/drawable/logo.jpeg"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/menu_toolbar_menu.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/menu/toolbar_menu.xml"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/drawable_bookmar_outline.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/drawable/bookmar_outline.xml"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/drawable_logo.jpeg.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/drawable/logo.jpeg"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/drawable_menu_bar.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/drawable/menu_bar.xml"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/xml_data_extraction_rules.xml.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/xml/data_extraction_rules.xml"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/layout_fragment_web_view.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/layout/fragment_web_view.xml"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/xml_backup_rules.xml.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/xml/backup_rules.xml"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/layout_fragment_job_search.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/layout/fragment_job_search.xml"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/layout_activity_main.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/layout/activity_main.xml"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/drawable/ic_launcher_background.xml"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/xml_backup_rules.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.sharath070.everydayjobalertui.app-merged_res-52:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.sharath070.everydayjobalertui.app-main-54:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/font_alatsi.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/font/alatsi.xml"
+    },
+    {
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/drawable_paper_plane.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/drawable/paper_plane.xml"
+    },
+    {
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/navigation_nav_graph.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/drawable_apply_btn_bg.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/drawable/apply_btn_bg.xml"
+    },
+    {
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/mipmap-xxhdpi/ic_launcher.webp"
     }
 ]

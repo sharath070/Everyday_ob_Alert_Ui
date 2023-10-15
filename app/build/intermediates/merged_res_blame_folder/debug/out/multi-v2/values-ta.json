@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.sharath070.everydayjobalertui.app-mergeDebugResources-50:/values-ta/values-ta.xml",
+            "outputFile": "com.sharath070.everydayjobalertui.app-mergeDebugResources-46:/values-ta/values-ta.xml",
             "map": [
                 {
                     "source": "/home/sharath/.gradle/caches/transforms-3/f84dfbbf046cb77908412c87ea1fdc36/transformed/core-1.12.0/res/values-ta/values-ta.xml",
