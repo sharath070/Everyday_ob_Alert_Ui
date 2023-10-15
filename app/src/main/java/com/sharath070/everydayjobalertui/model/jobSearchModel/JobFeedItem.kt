@@ -1,0 +1,31 @@
+package com.sharath070.everydayjobalertui.model.jobSearchModel
+
+data class JobFeedItem(
+    val _links: Links,
+    val author: Int,
+    val categories: List<Int>,
+    val comment_status: String,
+    val content: Content,
+    val date: String,
+    val date_gmt: String,
+    val excerpt: Excerpt,
+    val featured_media: Int,
+    val format: String,
+    val guid: Guid,
+    val id: Int,
+    val jetpack_featured_media_url: String,
+    val jetpack_publicize_connections: List<Any>,
+    val jetpack_sharing_enabled: Boolean,
+    val link: String,
+    val meta: Meta,
+    val modified: String,
+    val modified_gmt: String,
+    val ping_status: String,
+    val slug: String,
+    val status: String,
+    val sticky: Boolean,
+    val tags: List<Int>,
+    val template: String,
+    val title: Title,
+    val type: String
+)
