@@ -4,12 +4,20 @@
         "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/layout/item_job_card.xml"
     },
     {
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-mergeDebugResources-47:/layout/fragment_saved_jobs.xml",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/layout/fragment_saved_jobs.xml"
+    },
+    {
         "merged": "com.sharath070.everydayjobalertui.app-mergeDebugResources-47:/layout/fragment_job_search.xml",
         "source": "com.sharath070.everydayjobalertui.app-main-50:/layout/fragment_job_search.xml"
     },
     {
         "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-mergeDebugResources-47:/layout/fragment_job_search.xml",
         "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/layout/fragment_job_search.xml"
+    },
+    {
+        "merged": "com.sharath070.everydayjobalertui.app-mergeDebugResources-47:/layout/fragment_web_view.xml",
+        "source": "com.sharath070.everydayjobalertui.app-main-50:/layout/fragment_web_view.xml"
     },
     {
         "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-mergeDebugResources-47:/layout/fragment_web_view.xml",

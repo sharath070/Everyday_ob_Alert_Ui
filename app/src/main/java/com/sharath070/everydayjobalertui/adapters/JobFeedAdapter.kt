@@ -5,9 +5,11 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
+import com.google.android.material.snackbar.Snackbar
 import com.sharath070.everydayjobalertui.R
 import com.sharath070.everydayjobalertui.databinding.ItemJobCardBinding
 import com.sharath070.everydayjobalertui.model.jobSearchModel.JobFeedItem
+import com.sharath070.everydayjobalertui.viewModels.MainViewModel
 import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale
@@ -18,7 +20,7 @@ class JobFeedAdapter : ListAdapter<JobFeedItem, JobFeedAdapter.ViewHolder>(JobFe
     inner class ViewHolder(val itemBinding: ItemJobCardBinding) :
         RecyclerView.ViewHolder(itemBinding.root)
 
-    class JobFeedDiffUtil: DiffUtil.ItemCallback<JobFeedItem>(){
+    class JobFeedDiffUtil : DiffUtil.ItemCallback<JobFeedItem>() {
         override fun areItemsTheSame(oldItem: JobFeedItem, newItem: JobFeedItem): Boolean {
             return oldItem.link === newItem.link
         }
@@ -51,16 +53,23 @@ class JobFeedAdapter : ListAdapter<JobFeedItem, JobFeedAdapter.ViewHolder>(JobFe
 
             ibBookmark.setOnClickListener {
                 item.isSaved = !item.isSaved
-                if (item.isSaved){
+                if (item.isSaved) {
                     it.setBackgroundResource(R.drawable.bookmark_filled)
-                }
-                else{
+                } else {
                     it.setBackgroundResource(R.drawable.bookmar_outline)
                 }
+            }
+            llApplyBtn.setOnClickListener {
+                onItemClickListener?.let { it(item) }
             }
         }
 
 
+    }
+
+    private var onItemClickListener: ((JobFeedItem) -> Unit)? = null
+    fun setOnItemClickListener(listener: (JobFeedItem) -> Unit) {
+        onItemClickListener = listener
     }
 
     private fun formatRelativeTime(dateString: String): String {

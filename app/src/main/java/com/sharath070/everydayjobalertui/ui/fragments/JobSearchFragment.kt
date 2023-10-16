@@ -5,16 +5,16 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.appcompat.widget.PopupMenu
 import android.widget.Toast
-import androidx.lifecycle.ViewModelProvider
+import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.sharath070.everydayjobalertui.R
 import com.sharath070.everydayjobalertui.adapters.JobFeedAdapter
 import com.sharath070.everydayjobalertui.databinding.FragmentJobSearchBinding
-import com.sharath070.everydayjobalertui.repository.Repository
+import com.sharath070.everydayjobalertui.ui.activities.MainActivity
 import com.sharath070.everydayjobalertui.utils.Resource
 import com.sharath070.everydayjobalertui.viewModels.MainViewModel
-import com.sharath070.everydayjobalertui.viewModels.MainViewModelFactory
 
 class JobSearchFragment : Fragment() {
 
@@ -26,6 +26,16 @@ class JobSearchFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View {
         _binding = FragmentJobSearchBinding.inflate(layoutInflater, container, false)
+
+        binding.toolbar.inflateMenu(R.menu.toolbar_menu)
+
+        binding.toolbar.setOnMenuItemClickListener {
+            if (it.itemId == R.id.showMenu){
+                showPopupMenu()
+            }
+            true
+        }
+
         return binding.root
     }
 
@@ -37,14 +47,15 @@ class JobSearchFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        val repository = Repository()
-        val viewModelFactory = MainViewModelFactory(repository)
-        viewModel = ViewModelProvider(requireActivity(), viewModelFactory)[MainViewModel::class.java]
+        viewModel = (activity as MainActivity).viewModel
 
         setupRecyclerView()
         showJobList()
 
-
+        jobFeedAdapter.setOnItemClickListener {
+            val direction = JobSearchFragmentDirections.actionJobSearchFragmentToWebViewFragment(it.link)
+            findNavController().navigate(direction)
+        }
 
     }
 
@@ -53,7 +64,7 @@ class JobSearchFragment : Fragment() {
 
             when (response) {
                 is Resource.Success -> {
-                    //hideProgressBar()
+                    hideProgressBar()
                     response.data?.let {
                         jobFeedAdapter.submitList(it)
                     }
@@ -64,10 +75,20 @@ class JobSearchFragment : Fragment() {
                 }
 
                 is Resource.Loading -> {
-                    //showProgressBar()
+                    showProgressBar()
                 }
             }
         }
+    }
+
+    private fun hideProgressBar() {
+        binding.progressBar.visibility = View.GONE
+        binding.scrollView.visibility = View.VISIBLE
+    }
+
+    private fun showProgressBar() {
+        binding.scrollView.visibility = View.GONE
+        binding.progressBar.visibility = View.VISIBLE
     }
 
 
@@ -80,6 +101,11 @@ class JobSearchFragment : Fragment() {
 
     }
 
+    private fun showPopupMenu() {
+        val popupMenu = PopupMenu(requireContext(), binding.view)
+        popupMenu.inflate(R.menu.popup_menu)
+        popupMenu.show()
+    }
 
     override fun onDestroyView() {
         super.onDestroyView()

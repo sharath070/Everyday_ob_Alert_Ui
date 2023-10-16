@@ -2,6 +2,7 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.EverydayJobAlertUi" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="android:editTextColor">@color/text_dark_gray</item>
+        <item name="android:statusBarColor">@color/signature_blue</item>
     </style>
     
     <style name="textSearchBar" parent="Widget.AppCompat.SearchView">
@@ -9,4 +10,5 @@
         <item name="android:colorControlNormal">@color/signature_blue</item>
         <item name="android:colorEdgeEffect">@color/signature_blue</item>
     </style>
+
 </resources>

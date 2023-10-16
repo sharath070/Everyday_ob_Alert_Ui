@@ -27,8 +27,12 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <style name="Base.Theme.EverydayJobAlertUi" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="android:editTextColor">@color/text_dark_gray</item>
+        <item name="android:statusBarColor">@color/signature_blue</item>
     </style>
-    <style name="Theme.EverydayJobAlertUi" parent="Base.Theme.EverydayJobAlertUi"/>
+    <style name="Theme.EverydayJobAlertUi" parent="Base.Theme.EverydayJobAlertUi">
+        <item name="popupMenuBackground">@color/white</item>
+        <item name="android:textColor">@color/text_dark_gray</item>
+    </style>
     <style name="textSearchBar" parent="Widget.AppCompat.SearchView">
         <item name="android:colorControlActivated">@color/signature_blue</item>
         <item name="android:colorControlNormal">@color/signature_blue</item>

@@ -4,12 +4,15 @@ package com.sharath070.everydayjobalertui.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.widget.SearchView;
 import androidx.appcompat.widget.Toolbar;
+import androidx.cardview.widget.CardView;
 import androidx.constraintlayout.widget.ConstraintLayout;
+import androidx.core.widget.NestedScrollView;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
@@ -23,7 +26,16 @@ public final class FragmentJobSearchBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
+  public final CardView appBarLayout;
+
+  @NonNull
+  public final ProgressBar progressBar;
+
+  @NonNull
   public final RecyclerView rvJobList;
+
+  @NonNull
+  public final NestedScrollView scrollView;
 
   @NonNull
   public final SearchView searchBar;
@@ -34,14 +46,23 @@ public final class FragmentJobSearchBinding implements ViewBinding {
   @NonNull
   public final Toolbar toolbar;
 
+  @NonNull
+  public final View view;
+
   private FragmentJobSearchBinding(@NonNull ConstraintLayout rootView,
-      @NonNull RecyclerView rvJobList, @NonNull SearchView searchBar, @NonNull TextView textView,
-      @NonNull Toolbar toolbar) {
+      @NonNull CardView appBarLayout, @NonNull ProgressBar progressBar,
+      @NonNull RecyclerView rvJobList, @NonNull NestedScrollView scrollView,
+      @NonNull SearchView searchBar, @NonNull TextView textView, @NonNull Toolbar toolbar,
+      @NonNull View view) {
     this.rootView = rootView;
+    this.appBarLayout = appBarLayout;
+    this.progressBar = progressBar;
     this.rvJobList = rvJobList;
+    this.scrollView = scrollView;
     this.searchBar = searchBar;
     this.textView = textView;
     this.toolbar = toolbar;
+    this.view = view;
   }
 
   @Override
@@ -71,9 +92,27 @@ public final class FragmentJobSearchBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.appBarLayout;
+      CardView appBarLayout = ViewBindings.findChildViewById(rootView, id);
+      if (appBarLayout == null) {
+        break missingId;
+      }
+
+      id = R.id.progressBar;
+      ProgressBar progressBar = ViewBindings.findChildViewById(rootView, id);
+      if (progressBar == null) {
+        break missingId;
+      }
+
       id = R.id.rvJobList;
       RecyclerView rvJobList = ViewBindings.findChildViewById(rootView, id);
       if (rvJobList == null) {
+        break missingId;
+      }
+
+      id = R.id.scrollView;
+      NestedScrollView scrollView = ViewBindings.findChildViewById(rootView, id);
+      if (scrollView == null) {
         break missingId;
       }
 
@@ -95,8 +134,14 @@ public final class FragmentJobSearchBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentJobSearchBinding((ConstraintLayout) rootView, rvJobList, searchBar,
-          textView, toolbar);
+      id = R.id.view;
+      View view = ViewBindings.findChildViewById(rootView, id);
+      if (view == null) {
+        break missingId;
+      }
+
+      return new FragmentJobSearchBinding((ConstraintLayout) rootView, appBarLayout, progressBar,
+          rvJobList, scrollView, searchBar, textView, toolbar, view);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

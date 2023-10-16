@@ -1,1 +1,1 @@
-[{"navFile":"src/main/res/navigation/nav_graph.xml","javaFiles":["com.sharath070.everydayjobalertui.ui.fragments.JobSearchFragmentDirections"]}]
+[{"navFile":"src/main/res/navigation/nav_graph.xml","javaFiles":["com.sharath070.everydayjobalertui.ui.fragments.JobSearchFragmentDirections","com.sharath070.everydayjobalertui.ui.fragments.WebViewFragmentArgs"]}]

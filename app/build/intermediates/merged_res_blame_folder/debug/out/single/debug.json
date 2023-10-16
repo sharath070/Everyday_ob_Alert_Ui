@@ -48,12 +48,28 @@
         "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/drawable/logo.jpeg"
     },
     {
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/menu_popup_menui.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/menu/popup_menui.xml"
+    },
+    {
         "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/drawable_menu_bar.xml.flat",
         "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/drawable/menu_bar.xml"
     },
     {
+        "merged": "com.sharath070.everydayjobalertui.app-merged_res-48:/navigation_nav_graph.xml.flat",
+        "source": "com.sharath070.everydayjobalertui.app-main-50:/navigation/nav_graph.xml"
+    },
+    {
         "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/layout_fragment_web_view.xml.flat",
         "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/layout/fragment_web_view.xml"
+    },
+    {
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/menu_popup_menu.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/menu/popup_menu.xml"
+    },
+    {
+        "merged": "com.sharath070.everydayjobalertui.app-merged_res-48:/layout_fragment_web_view.xml.flat",
+        "source": "com.sharath070.everydayjobalertui.app-main-50:/layout/fragment_web_view.xml"
     },
     {
         "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/layout_fragment_job_search.xml.flat",
@@ -90,6 +106,10 @@
     {
         "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/drawable_paper_plane.xml.flat",
         "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/drawable/paper_plane.xml"
+    },
+    {
+        "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/layout_fragment_saved_jobs.xml.flat",
+        "source": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-main-50:/layout/fragment_saved_jobs.xml"
     },
     {
         "merged": "/home/sharath/.gradle/daemon/8.0/com.sharath070.everydayjobalertui.app-merged_res-48:/navigation_nav_graph.xml.flat",
